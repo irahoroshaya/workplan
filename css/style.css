@@ -1,0 +1,26 @@
+body {
+	background-color:#E9F1FE;
+	 }
+.antifloat
+{
+z-index: 100;
+}
+
+.align
+{
+text-align:center;
+}
+
+.span
+{
+	text-align:center;
+	white-space:normal;
+	font-size:13pt;
+}
+
+.text
+{
+	font-size:9pt;
+	white-space:normal;
+	font-family:Tahoma;
+}
